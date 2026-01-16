@@ -1,2 +1,0 @@
-# mahekpatel
-Hello World
